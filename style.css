@@ -1,0 +1,33 @@
+nav{
+    display: flex;
+    width: 1300px;
+    margin:0px; ;
+    padding: 2%;
+    align-items:center ;
+    justify-content: space-evenly;
+    background-color: #0e0d0d00;
+    font-style: italic;
+font-size: 50px;
+text-align: center;
+
+}
+
+h1{
+    color: blueviolet;
+}
+
+p{
+    font-size: 150%;
+}
+
+#contact{
+    text-align: center;
+}
+
+
+    h1{
+        font-size: 300%;
+        text-align: center;
+        padding-bottom: 5%;
+    }
+    
